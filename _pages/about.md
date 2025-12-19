@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TEST"
+title: "Kristina Aleksandrovna Pedersen"
 author_profile: true
 redirect_from: 
   - /about/
