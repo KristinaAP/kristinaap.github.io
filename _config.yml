@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-#title                    : "Your Name / Site Title"
-#title_separator          : "-"
+title                    : "Kristina Aleksandrovna Pedersen"
+title_separator          : " "
 name                     : &name "Kristina Aleksandrovna Pedersen"
 description              : &description " "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://kristinaap.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -24,11 +24,11 @@ repository               : "KristinaAP/kristinaap.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Kristina Aleksandrovna Pedersen"
+ # name             : "Kristina Aleksandrovna Pedersen"
  # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+ # bio              : "Short biography for the left-hand sidebar"
  # location         : "Earth"
- # employer         : "Red Brick University"
+  employer         : "Copenhagen Business School"
  # uri              : # URL
   email            : "krp.egb@cbs.dk" 
 
