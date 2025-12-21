@@ -10,25 +10,27 @@ redirect_from:
 
 About
 ======
-BLA BLA TEST
+I am a postdoctoral researcher at the Department of International Economics, Government and Business, Copenhagen Business School, on the Ty­coon Can­did­ates project led by Mogens K. Justesen. I am also a postdoctoral research affiliate at the Center for Social Media and Politics (CSMaP) at New York University.
+
+
 
 
 Research
 ======
 
-## Publications
+### Publications
 - Golovchenko, Y., Pedersen, K. A., Raaschou-Pedersen, J. S., & Rogers, A. (2025). *Information control on YouTube during Russia’s invasion of Ukraine.* Harvard Kennedy School (HKS) Misinformation Review. https://doi.org/10.37016/mr-2020-190
   <details>
-    <summary><strong>Abstract</strong></summary>
+    <summary>Abstract</summary>
      <small><em>
     This research note investigates the aftermath of YouTube’s global ban on Russian state-affiliated media channels in the wake of Russia’s full-scale invasion of Ukraine in 2022. Using over 12 million YouTube comments across 40 Russian-language channels, we analyzed the effectiveness of the ban and the shifts in user activity before and after the platform’s intervention. We found that YouTube, in accordance with its promise, effectively removed user activity across the banned channels. However, the ban did not prevent users from seeking out ideologically similar content on other channels and, in turn, increased user engagement on otherwise less visible pro-Kremlin channels. </em></small>
   </details>
 
-## Working Papers
+### Working Papers
 - Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper.  Presented at EPSA 2022, DPSA 2022, and APSA 2023.
   <details>
     <summary><strong>Abstract</strong></summary>
-    Autocrats understand the dangers of an informed citizenry and invest heavily in
+    <small><em> Autocrats understand the dangers of an informed citizenry and invest heavily in
     strategies to manipulate and restrict the media landscape, whether through overt repression
     or more subtle tactics. This paper exploits a 2016 reform of regional television
     in Russia to examine how autocrats use indirect leverage to shape the media environment.
@@ -40,14 +42,14 @@ Research
     bias at the onset of the tender, though these patterns are not statistically robust
     across specifications. These findings highlight how autocrats can utilize bureaucratic
     tools to create long-term incentives for favorable news coverage, without incurring
-    the costs of overt repression.
+    the costs of overt repression. </em></small>
   </details>
 
 - Pedersen, K.A. & Tucker, J. A. (2025). *Online self-moderation in response to regime repression.* Working paper. 
 Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conference 2025, and EUI Digital Inequalities Conference Fall 2025.
   <details>
     <summary><strong>Abstract</strong></summary>
-    Social media has become a crucial arena for political opposition in autocracies,
+    <small><em> Social media has become a crucial arena for political opposition in autocracies,
     and, in turn, autocrats have adapted by introducing costly barriers to deter citizens
     from political engagement online. Still, little is known about the differential effect of
     repression on those targeted by the repression versus those observing it. We exploit the
@@ -65,7 +67,7 @@ Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conferenc
     with politically sensitive content, but may inadvertently foster political dissent that
     eludes easy detection by the regime. These findings have important implications for
     understanding the limitations of digital technologies as tools for authoritarian regimes
-    on the one hand, as well as for pro-democratic movements on the other.
+    on the one hand, as well as for pro-democratic movements on the other.</em></small>
   </details>
 
 - Geissler, F., Hartmann, F., Pedersen, K. A., Giesecke, J., Humphreys, M., & Klüver, H. (2025). *Digital literacy reduces susceptibility to populist content on social media.* Working paper.
@@ -74,7 +76,7 @@ Presented at EPSA 2025.
 - Pedersen, K. A. (2025). *Online political expression under censorship: when backlash is short-lived.* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
   <details>
     <summary><strong>Abstract</strong></summary>
-    The implications of censorship are often boiled down to two overall mechanisms
+    <small><em> The implications of censorship are often boiled down to two overall mechanisms
     by scholars: either the regime succeeds in silencing dissent or will endure the cost
     of backfire in the form of circumvention or public backlash. Much existing scholarship
     debates the contextual characteristics and settings in which each mechanism
@@ -94,6 +96,6 @@ Presented at EPSA 2025.
     down on repression. In light of the findings, the paper contributes to the theoretical
     discussion on the complicated dynamics of backlash and deterrence. It demonstrates
     how the impermanent nature of backlash patterns can make the associated
-    costs worthwhile for autocrats hoping to reduce long-term risks.
+    costs worthwhile for autocrats hoping to reduce long-term risks.</em></small>
   </details>
 
