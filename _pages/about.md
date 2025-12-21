@@ -7,22 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-
 About
 ======
 I am a postdoctoral researcher at the [Department of International Economics, Government and Business, Copenhagen Business School](https://www.cbs.dk/en/research/department-international-economics-government-and-business-egb), on the Ty­coon Can­did­ates project led by Mogens K. Justesen. I am also a postdoctoral research affiliate at the [Center for Social Media and Politics (CSMaP) at New York University](https://csmapnyu.org/). I received my PhD degree in November 2024 from the [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/).
 
+My research is based at the intersection of comparative politics, political communication, and computational social sciences. My ongoing work combines computational methods with causal inference to examine how political expression and self-censorship among societal actors are shaped by different informational environments, both online and offline. My dissertation focused on autocratic use of in­form­a­tion con­trol and its im­plic­a­tions for political expression on digital and tra­di­tion­al me­dia plat­forms, with a fo­cus on Rus­sia. 
+
+I primarily employ quant­it­at­ive and com­pu­ta­tion­al meth­ods in my work – drawing on large-scale (digital) data, a variety of NLP and LLM approaches, and combining descriptive analyses with quasi-experimental designs.
 
 
-
-
-
-
-
-Research
+Publications
 ======
-
-### Publications
 - Golovchenko, Y., Pedersen, K. A., Raaschou-Pedersen, J. S., & Rogers, A. (2025). *Information control on YouTube during Russia’s invasion of Ukraine.* Harvard Kennedy School (HKS) Misinformation Review. https://doi.org/10.37016/mr-2020-190
   <details>
     <summary>Abstract</summary>
@@ -30,7 +25,8 @@ Research
     This research note investigates the aftermath of YouTube’s global ban on Russian state-affiliated media channels in the wake of Russia’s full-scale invasion of Ukraine in 2022. Using over 12 million YouTube comments across 40 Russian-language channels, we analyzed the effectiveness of the ban and the shifts in user activity before and after the platform’s intervention. We found that YouTube, in accordance with its promise, effectively removed user activity across the banned channels. However, the ban did not prevent users from seeking out ideologically similar content on other channels and, in turn, increased user engagement on otherwise less visible pro-Kremlin channels. </em></small>
   </details>
 
-### Working Papers
+Working papers
+======
 - Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper.  Presented at EPSA 2022, DPSA 2022, and APSA 2023.
   <details>
     <summary>Abstract</summary>
