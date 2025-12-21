@@ -10,7 +10,11 @@ redirect_from:
 
 About
 ======
-I am a postdoctoral researcher at the Department of International Economics, Government and Business, Copenhagen Business School, on the Ty­coon Can­did­ates project led by Mogens K. Justesen. I am also a postdoctoral research affiliate at the Center for Social Media and Politics (CSMaP) at New York University.
+I am a postdoctoral researcher at the [Department of International Economics, Government and Business, Copenhagen Business School](https://www.cbs.dk/en/research/department-international-economics-government-and-business-egb), on the Ty­coon Can­did­ates project led by Mogens K. Justesen. I am also a postdoctoral research affiliate at the [Center for Social Media and Politics (CSMaP) at New York University](https://csmapnyu.org/). I received my PhD degree in November 2024 from the [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/).
+
+
+
+
 
 
 
@@ -29,7 +33,7 @@ Research
 ### Working Papers
 - Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper.  Presented at EPSA 2022, DPSA 2022, and APSA 2023.
   <details>
-    <summary><strong>Abstract</strong></summary>
+    <summary>Abstract</summary>
     <small><em> Autocrats understand the dangers of an informed citizenry and invest heavily in
     strategies to manipulate and restrict the media landscape, whether through overt repression
     or more subtle tactics. This paper exploits a 2016 reform of regional television
@@ -48,7 +52,7 @@ Research
 - Pedersen, K.A. & Tucker, J. A. (2025). *Online self-moderation in response to regime repression.* Working paper. 
 Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conference 2025, and EUI Digital Inequalities Conference Fall 2025.
   <details>
-    <summary><strong>Abstract</strong></summary>
+    <summary>Abstract</summary>
     <small><em> Social media has become a crucial arena for political opposition in autocracies,
     and, in turn, autocrats have adapted by introducing costly barriers to deter citizens
     from political engagement online. Still, little is known about the differential effect of
@@ -75,7 +79,7 @@ Presented at EPSA 2025.
 
 - Pedersen, K. A. (2025). *Online political expression under censorship: when backlash is short-lived.* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
   <details>
-    <summary><strong>Abstract</strong></summary>
+    <summary>Abstract</summary>
     <small><em> The implications of censorship are often boiled down to two overall mechanisms
     by scholars: either the regime succeeds in silencing dissent or will endure the cost
     of backfire in the form of circumvention or public backlash. Much existing scholarship
