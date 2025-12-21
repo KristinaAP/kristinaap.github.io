@@ -16,14 +16,15 @@ BLA BLA TEST
 Research
 ======
 
-#### Publications
+## Publications
 - Golovchenko, Y., Pedersen, K. A., Raaschou-Pedersen, J. S., & Rogers, A. (2025). *Information control on YouTube during Russia’s invasion of Ukraine.* Harvard Kennedy School (HKS) Misinformation Review. https://doi.org/10.37016/mr-2020-190
   <details>
     <summary><strong>Abstract</strong></summary>
-    This research note investigates the aftermath of YouTube’s global ban on Russian state-affiliated media channels in the wake of Russia’s full-scale invasion of Ukraine in 2022. Using over 12 million YouTube comments across 40 Russian-language channels, we analyzed the effectiveness of the ban and the shifts in user activity before and after the platform’s intervention. We found that YouTube, in accordance with its promise, effectively removed user activity across the banned channels. However, the ban did not prevent users from seeking out ideologically similar content on other channels and, in turn, increased user engagement on otherwise less visible pro-Kremlin channels.
+     <small><em>
+    This research note investigates the aftermath of YouTube’s global ban on Russian state-affiliated media channels in the wake of Russia’s full-scale invasion of Ukraine in 2022. Using over 12 million YouTube comments across 40 Russian-language channels, we analyzed the effectiveness of the ban and the shifts in user activity before and after the platform’s intervention. We found that YouTube, in accordance with its promise, effectively removed user activity across the banned channels. However, the ban did not prevent users from seeking out ideologically similar content on other channels and, in turn, increased user engagement on otherwise less visible pro-Kremlin channels. </em></small>
   </details>
 
-#### Working Papers
+## Working Papers
 - Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper.  Presented at EPSA 2022, DPSA 2022, and APSA 2023.
   <details>
     <summary><strong>Abstract</strong></summary>
@@ -94,6 +95,5 @@ Presented at EPSA 2025.
     discussion on the complicated dynamics of backlash and deterrence. It demonstrates
     how the impermanent nature of backlash patterns can make the associated
     costs worthwhile for autocrats hoping to reduce long-term risks.
-*
   </details>
 
