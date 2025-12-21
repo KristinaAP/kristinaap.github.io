@@ -1,7 +1,9 @@
 ---
-layout: archive
-title: "Sitemap"
+title: Sitemap
 permalink: /sitemap/
-author_profile: true
+author_profile: false
 ---
 
+- [About](/)
+- [Publications](/publications/)
+- [CV](/cv/)
