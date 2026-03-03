@@ -15,10 +15,9 @@ My research is based at the intersection of comparative politics, political comm
 
 I primarily employ quant­it­at­ive and com­pu­ta­tion­al meth­ods in my work – drawing on large-scale (digital) data, a variety of NLP and LLM approaches, and combining descriptive analyses with quasi-experimental designs.
 
-
 Publications
 ======
-- Golovchenko, Y., Pedersen, K. A., Raaschou-Pedersen, J. S., & Rogers, A. (2025). *Information control on YouTube during Russia’s invasion of Ukraine.* Harvard Kennedy School (HKS) Misinformation Review. https://doi.org/10.37016/mr-2020-190
+- Golovchenko, Y., Pedersen, K.A., Raaschou-Pedersen, J.S., & Rogers, A. (2025). *Information control on YouTube during Russia's invasion of Ukraine.* Harvard Kennedy School (HKS) Misinformation Review. https://doi.org/10.37016/mr-2020-190
   <details>
     <summary>Abstract</summary>
      <small><em>
@@ -27,7 +26,7 @@ Publications
 
 Working papers
 ======
-- Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper.  Presented at EPSA 2022, DPSA 2022, and APSA 2023.
+- Pedersen, K.A. *Making a deal with the devil: How the relationship between the regime and news media affects news content in an electoral autocracy.* Working paper. Presented at EPSA 2022, DPSA 2022, and APSA 2023. Working paper attached as writing sample.
   <details>
     <summary>Abstract</summary>
     <small><em> Autocrats understand the dangers of an informed citizenry and invest heavily in
@@ -45,7 +44,7 @@ Working papers
     the costs of overt repression. </em></small>
   </details>
 
-- Pedersen, K.A. & Tucker, J. A. (2025). *Online self-moderation in response to regime repression.* Working paper. 
+- Pedersen, K.A. & Tucker, J.A. (2025). *Online self-moderation in response to regime repression.* Working paper. 
 Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conference 2025, and EUI Digital Inequalities Conference Fall 2025.
   <details>
     <summary>Abstract</summary>
@@ -70,10 +69,7 @@ Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conferenc
     on the one hand, as well as for pro-democratic movements on the other.</em></small>
   </details>
 
-- Geissler, F., Hartmann, F., Pedersen, K. A., Giesecke, J., Humphreys, M., & Klüver, H. (2025). *Digital literacy reduces susceptibility to populist content on social media.* Working paper.
-Presented at EPSA 2025.
-
-- Pedersen, K. A. (2025). *Online political expression under censorship: when backlash is short-lived.* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
+- Pedersen, K.A. (2025). *Impact of repression on self-censorship online during wartime.* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
   <details>
     <summary>Abstract</summary>
     <small><em> The implications of censorship are often boiled down to two overall mechanisms
@@ -99,3 +95,10 @@ Presented at EPSA 2025.
     costs worthwhile for autocrats hoping to reduce long-term risks.</em></small>
   </details>
 
+- Pedersen, K.A., Geissler, F., Hartmann, F., Giesecke, J., Humphreys, M., & Klüver, H. *Digital literacy reduces susceptibility to populist content on social media.* Working paper. Presented at EPSA 2025.
+
+- Pedersen, K.A., Hartmann, F., Egerod, B., Justesen, M., & Markus, S. *Businesspeople in political office: Private returns and public goods.* Working paper in progress.
+
+- Hartmann, F., Egerod, B., Justesen, M., Pedersen, K.A., & Markus, S. *Why Do Voters Elect Business Candidates? Voter Demand vs Candidate Supply.* Working paper in progress. To be presented at EPSA 2026.
+
+- Pedersen, K.A. & Cruz, D. *We all have a cross to bear: Social Media Strategies During Protests on Democratic Contexts.* Working paper. Presented at EPSA 2023.
