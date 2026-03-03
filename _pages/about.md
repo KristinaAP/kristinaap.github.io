@@ -69,7 +69,7 @@ Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conferenc
     on the one hand, as well as for pro-democratic movements on the other.</em></small>
   </details>
 
-- Pedersen, K.A. (2025). *Impact of repression on self-censorship online during wartime.* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
+- Pedersen, K.A. (2025). *Online political expression under censorship: when backlash is short-lived* Working paper. Presented at EPSA 2023, IC2S2 2023, and EPSA 2025.
   <details>
     <summary>Abstract</summary>
     <small><em> The implications of censorship are often boiled down to two overall mechanisms
