@@ -101,4 +101,4 @@ Presented at EPSA 2024, APSA 2024, the CBS-Princeton Money in Politics Conferenc
 
 - Hartmann, F., Egerod, B., Justesen, M., Pedersen, K.A., & Markus, S. *Why Do Voters Elect Business Candidates? Voter Demand vs Candidate Supply.* Working paper in progress. To be presented at EPSA 2026.
 
-- Pedersen, K.A. & Cruz, D. *We all have a cross to bear: Social Media Strategies During Protests on Democratic Contexts.* Working paper. Presented at EPSA 2023.
+- Pedersen, K.A. & Cruz, D. *We all have a cross to bear: Social Media Strategies During Protests in Democratic Contexts.* Working paper. Presented at EPSA 2023.
