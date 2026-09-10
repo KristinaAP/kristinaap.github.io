@@ -9,7 +9,7 @@ redirect_from:
 
 About
 ======
-I am a postdoctoral researcher at the [Department of International Economics, Government and Business, Copenhagen Business School](https://www.cbs.dk/en/research/department-international-economics-government-and-business-egb), on the Ty­coon Can­did­ates project led by Mogens K. Justesen. I am also a postdoctoral research affiliate at the [Center for Social Media, AI, and Politics (CSMAP) at New York University](https://csmapnyu.org/). I received my PhD degree in November 2024 from the [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/).
+I am a postdoctoral researcher at the [he Jordan Center for the Advanced Study of Russia at NYU](https://jordanrussiacenter.org/). I am also a postdoctoral research affiliate at the [Center for Social Media, AI, and Politics (CSMAP) at New York University](https://csmapnyu.org/) and [Department of International Economics, Government and Business, CBS](https://www.cbs.dk/en/research/department-international-economics-government-and-business-egb). I received my PhD degree from the [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/) in November 2024.
 
 My research is based at the intersection of comparative politics, political communication, and computational social sciences. My ongoing work combines computational methods with causal inference to examine how political expression and self-censorship among societal actors are shaped by different informational environments, both online and offline. My dissertation focused on autocratic use of in­form­a­tion con­trol and its im­plic­a­tions for political expression on digital and tra­di­tion­al me­dia plat­forms, with a fo­cus on Rus­sia. 
 
