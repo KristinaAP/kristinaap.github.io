@@ -25,7 +25,7 @@ Published work
 
 Forthcoming and under review
 ======
-- Pedersen, K.A., Geissler, F., Hartmann, F., Giesecke, J., Humphreys, M., & Klüver, H. *Digital literacy alters engagement with emotionally manipulative political content on social media.* Forthcoming.
+- Pedersen, K.A., Geissler, F., Hartmann, F., Giesecke, J., Humphreys, M., & Klüver, H. *Digital literacy alters engagement with emotionally manipulative political content on social media.* Forthcoming in *Proceedings of the National Academy of Sciences*.
 
 - Pedersen, K.A. & Tucker, J.A. [*Online Self-Moderation in Response to Regime Repression.*](/files/Online_Self_Moderation.pdf) Under review.
   <details>
