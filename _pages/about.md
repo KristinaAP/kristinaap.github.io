@@ -27,7 +27,7 @@ Forthcoming and under review
 ======
 - Pedersen, K.A., Geissler, F., Hartmann, F., Giesecke, J., Humphreys, M., & Klüver, H. *Digital literacy alters engagement with emotionally manipulative political content on social media.* Forthcoming.
 
-- Pedersen, K.A. & Tucker, J.A. [*Online Self-Moderation in Response to Regime Repression.*](/files/Online_Self_Moderation.pdf) Under review at *American Political Science Review (APSR)*.
+- Pedersen, K.A. & Tucker, J.A. [*Online Self-Moderation in Response to Regime Repression.*](/files/Online_Self_Moderation.pdf) Under review.
   <details>
     <summary>Abstract</summary>
     <small><em>Social media has become a crucial arena for political opposition in autocracies, and autocrats have adapted by introducing barriers aimed at deterring political engagement online. We exploit variation in Russian Foreign Agent labeling to investigate how repression impacts political expression in the content produced by targeted actors and users’ engagement with their content. Employing a staggered difference-in-differences design on more than 200,000 videos posted by YouTubers designated as Foreign Agents in Russia and more than 115 million adjacent comments, we find that targeted actors retain their online presence, with some evidence of increased regime criticism in their content. At the same time, audience engagement drops substantially, while users engaging with targeted channels increase their use of symbols. These results suggest that deterrence signals can stifle detectable online engagement with targeted political actors, but may also foster indirect forms of expression that are harder for the regime to detect.</em></small>
