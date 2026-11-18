@@ -35,8 +35,6 @@ Forthcoming and under review
 
 Working papers and projects
 ======
-- Pedersen, K.A., Kurek, L., Waight, H., Yang, E., Roberts, M.E., & Tucker, J.A. *Russian State Media Influence in LLMs and Language Spillover.* Work in progress.
-
 - Pedersen, K.A. [*Making a deal with the devil: How regime spoils affect news content in an autocracy.*](/files/Making_a_Deal_with_the_Devil.pdf) Presented at EPSA 2022, DPSA 2022, and APSA 2023.
   <details>
     <summary>Abstract</summary>
